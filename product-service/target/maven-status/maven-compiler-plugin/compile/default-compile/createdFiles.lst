@@ -1,0 +1,10 @@
+com\silverspot\productservice\repository\ProductRepository.class
+com\silverspot\productservice\dto\ProductResponse.class
+com\silverspot\productservice\model\Product.class
+com\silverspot\productservice\ProductServiceApplication.class
+com\silverspot\productservice\service\ProductService.class
+com\silverspot\productservice\controller\ProductController.class
+com\silverspot\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\silverspot\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\silverspot\productservice\model\Product$ProductBuilder.class
+com\silverspot\productservice\dto\ProductRequest.class

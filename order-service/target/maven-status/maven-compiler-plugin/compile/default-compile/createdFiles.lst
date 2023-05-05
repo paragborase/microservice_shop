@@ -1,0 +1,8 @@
+com\silverspot\orderservice\dto\OrderLineItemsDto.class
+com\silverspot\orderservice\repository\OrderRepository.class
+com\silverspot\orderservice\model\OrderLineItems.class
+com\silverspot\orderservice\service\OrderService.class
+com\silverspot\orderservice\model\Order.class
+com\silverspot\orderservice\OrderServiceApplication.class
+com\silverspot\orderservice\dto\OrderRequest.class
+com\silverspot\orderservice\controller\OrderController.class

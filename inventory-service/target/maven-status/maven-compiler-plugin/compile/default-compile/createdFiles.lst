@@ -1,0 +1,5 @@
+com\silverspot\inventoryservice\InventoryServiceApplication.class
+com\silverspot\inventoryservice\service\InventoryService.class
+com\silverspot\inventoryservice\controller\InventoryController.class
+com\silverspot\inventoryservice\model\Inventory.class
+com\silverspot\inventoryservice\repository\InventoryRepository.class
